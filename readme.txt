@@ -3,3 +3,5 @@ Git is free software.
 
 111
 222
+
+Git has a mutable index called stage.
